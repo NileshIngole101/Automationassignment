@@ -1,0 +1,1 @@
+this file give information about fetch and merge file ,how file its going from repo to working repo means get pull(combination for get fetch and get merge menas repo to local repo and local to working repo) 
