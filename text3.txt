@@ -1,0 +1,2 @@
+text3
+this my text3 file
