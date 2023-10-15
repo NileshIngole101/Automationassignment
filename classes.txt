@@ -1,0 +1,45 @@
+Class Human
+{
+  String name;
+  int age;
+  int birthdate;
+  int weight;
+  int height;
+  string country;
+  string color;
+  string gender;
+  string address;
+}
+
+Class Laptop
+ {
+   String laptopname;
+   string laptopcompany;
+   int version;
+   int weight;
+   int RAM;
+   int maanifacturedate;
+ }
+
+CLass SportMan
+{
+  String sportname;
+  string sportman name;
+  int age;
+  int birthdate;
+  int weight;
+  int height;
+  string country;
+  string color;
+  string gender;
+  string address;
+}
+
+Class TestCase
+{
+int IDnumber;
+int Epicnumber;
+string Description;
+string priority;
+string issuse;
+}
