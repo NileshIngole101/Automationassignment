@@ -1,0 +1,38 @@
+Input :2
+Output :
+   square: 4
+   cube: 8
+   fourth power: 16
+
+Input :10
+ Output :
+   square: 100
+   cube: 1000
+   fourth power: 10,000
+
+Input :89
+Output :
+   square: 7921
+   cube: 7,04,969
+   fourth power: 6,27,42,241
+
+Input :134
+Output :
+   square: 17,956
+   cube: 24,06,104
+   fourth power: 32,24,17,936
+
+Input :34.5
+Output :
+   square: 1,190.25
+   cube: 41,063.625
+   fourth power: 14,16,695.06
+
+Input :-45
+Output :
+   square: 2,025
+   cube: 91,125
+   fourth power: 41,00,625
+
+
+
